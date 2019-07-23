@@ -1,0 +1,19 @@
+
+
+/* Start:/local/templates/new/components/bitrix/news.list/reviews/style.css?1542984243266*/
+.feedback .img-wrap.custom_height{
+	padding-bottom: 80px;
+	height: 300px;
+}
+.feedback .img-wrap .feedback__person.custom_height{
+	height:80px;
+	padding: 0px 5px 0px 5px;
+	line-height: 30px;
+}
+.feedback__item .feedback__text-wrap .feedback__header{
+	height: 65px;
+}
+
+
+/* End */
+/* /local/templates/new/components/bitrix/news.list/reviews/style.css?1542984243266 */

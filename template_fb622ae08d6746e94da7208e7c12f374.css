@@ -1,0 +1,46 @@
+
+
+/* Start:/local/templates/new/components/bitrix/news.list/articles/style.css?15428751741333*/
+	.news__item .news__ink-wrap .news__desc{
+		padding-right: 30px;
+	}
+	.news__item .news__ink-wrap .news__desc .news__name{
+		text-align: center;
+	}
+	.news__item .news__ink-wrap .news__desc .preview_text{
+		width: 100%;
+		overflow: hidden;
+		height: 100%;
+		color: #20202b;
+		font: 14px/25px "opensans-regular", sans-serif;
+		line-height: normal;
+		position: relative;
+		word-break: normal;
+		text-align: justify;
+	}
+	.news__item .news__ink-wrap .news__desc .preview_text h4{
+		font-size: 16px;
+		font-family: roboto-example, sans-serif;
+		font-style:normal;
+		font-variant-caps:normal;
+		font-variant-east-asian:normal;
+		font-variant-ligatures:normal;
+		font-variant-numeric:normal;
+		line-height:16px;
+		word-break: break-word;
+	}
+	.news__item .news__ink-wrap .news__desc .preview_text:after{
+		content: '';
+		width: 100%;
+		position: absolute;
+		left: 0;
+		background: -moz-linear-gradient(top, rgba(255, 255, 255, 0) 50%, rgba(255, 255, 255, 1) 100%);
+		background: -webkit-linear-gradient(top, rgba(255, 255, 255, 0) 50%, rgba(255, 255, 255, 1) 100%);
+		background: linear-gradient(to bottom, rgba(255, 255, 255, 0) 50%, rgba(255, 255, 255, 1) 100%);
+		filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#00ffffff', endColorstr='#ffffff', GradientType=0);
+		pointer-events: none;
+		height: 137px;
+		bottom: 0px;
+	}
+/* End */
+/* /local/templates/new/components/bitrix/news.list/articles/style.css?15428751741333 */
