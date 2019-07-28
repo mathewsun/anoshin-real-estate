@@ -246,39 +246,39 @@ $(document).on("click", ".calculator__option-variant  input", function (e) {
 
 function cleanRadios() {
 	//Продажа
-	$('#state_apart').find('input').prop('checked',true);
-	$('#strategy_apart').find('input').prop('checked',site);
-	$('#geo_apart').find('input').prop('checked',site);
-	$('#second_apart').find('input').prop('checked',site);
-	$('#state_house').find('input').prop('checked',site);
-	$('#strategy_house').find('input').prop('checked',site);
-	$('#geo_house').find('input').prop('checked',site);
-	$('#docs_house').find('input').prop('checked',site);
-	$('#state_stead').find('input').prop('checked',site);
-	$('#strategy_stead').find('input').prop('checked',site);
-	$('#geo_stead').find('input').prop('checked',site);
-	$('#docs_stead').find('input').prop('checked',site);
-	$('#state_town').find('input').prop('checked',site);
-	$('#strategy_town').find('input').prop('checked',site);
-	$('#geo_town').find('input').prop('checked',site);
-	$('#docs_town').find('input').prop('checked',site);
+	$('#state_apart').find('input').prop('checked',false);
+	$('#strategy_apart').find('input').prop('checked',false);
+	$('#geo_apart').find('input').prop('checked',false);
+	$('#second_apart').find('input').prop('checked',false);
+	$('#state_house').find('input').prop('checked',false);
+	$('#strategy_house').find('input').prop('checked',false);
+	$('#geo_house').find('input').prop('checked',false);
+	$('#docs_house').find('input').prop('checked',false);
+	$('#state_stead').find('input').prop('checked',false);
+	$('#strategy_stead').find('input').prop('checked',false);
+	$('#geo_stead').find('input').prop('checked',false);
+	$('#docs_stead').find('input').prop('checked',false);
+	$('#state_town').find('input').prop('checked',false);
+	$('#strategy_town').find('input').prop('checked',false);
+	$('#geo_town').find('input').prop('checked',false);
+	$('#docs_town').find('input').prop('checked',false);
 	//Покупка
-	$('#money_apart').find('input').prop('checked',site);
-	$('#calc_search_apart').find('input').prop('checked',site);
-	$('#geosearch_apart').find('input').prop('checked',site);
-	$('#selling_apart').find('input').prop('checked',site);
-	$('#money_house').find('input').prop('checked',site);
-	$('#calc_search_house').find('input').prop('checked',site);
-	$('#geosearch_house').find('input').prop('checked',site);
-	$('#selling_house').find('input').prop('checked',site);
-	$('#money_stead').find('input').prop('checked',site);
-	//$('#calc_search_stead').find('input').prop('checked',site);
-	$('#geosearch_stead').find('input').prop('checked',site);
-	$('#selling_stead').find('input').prop('checked',site);
-	$('#money_town').find('input').prop('checked',site);
-	//$('#calc_search_town').find('input').prop('checked',site);
-	$('#geosearch_town').find('input').prop('checked',site);
-	$('#selling_town').find('input').prop('checked',site);
+	$('#money_apart').find('input').prop('checked',false);
+	$('#calc_search_apart').find('input').prop('checked',false);
+	$('#geosearch_apart').find('input').prop('checked',false);
+	$('#selling_apart').find('input').prop('checked',false);
+	$('#money_house').find('input').prop('checked',false);
+	$('#calc_search_house').find('input').prop('checked',false);
+	$('#geosearch_house').find('input').prop('checked',false);
+	$('#selling_house').find('input').prop('checked',false);
+	$('#money_stead').find('input').prop('checked',false);
+	//$('#calc_search_stead').find('input').prop('checked',false);
+	$('#geosearch_stead').find('input').prop('checked',false);
+	$('#selling_stead').find('input').prop('checked',false);
+	$('#money_town').find('input').prop('checked',false);
+	//$('#calc_search_town').find('input').prop('checked',false);
+	$('#geosearch_town').find('input').prop('checked',false);
+	$('#selling_town').find('input').prop('checked',false);
 }
 function hideAllCalc() {
 	//Продажа
@@ -319,7 +319,7 @@ function hideAllCalc() {
 
 $(function () {
 	$( "#operation-type-1" ).click();
-	var load_more = site;
+	var load_more = false;
 	$(window).scroll(function () {
 		if ($("#ajax_next_page").length && !load_more) {
 			var url = $("#ajax_next_page").attr("href");
@@ -334,7 +334,7 @@ $(function () {
 							success: function (data) {
 								$("#ajax_next_page").after(data);
 								$("#ajax_next_page").remove();
-								load_more = site;
+								load_more = false;
 							}
 						});
 			}
