@@ -1,0 +1,1908 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+	<meta charset="UTF-8">
+	<!-- <base href="/"> -->
+	<script type="text/javascript">if(!window.BX)window.BX={};if(!window.BX.message)window.BX.message=function(mess){if(typeof mess=='object') for(var i in mess) BX.message[i]=mess[i]; return true;};</script>
+<script type="text/javascript">(window.BX||top.BX).message({'JS_CORE_LOADING':'Загрузка...','JS_CORE_NO_DATA':'- Нет данных -','JS_CORE_WINDOW_CLOSE':'Закрыть','JS_CORE_WINDOW_EXPAND':'Развернуть','JS_CORE_WINDOW_NARROW':'Свернуть в окно','JS_CORE_WINDOW_SAVE':'Сохранить','JS_CORE_WINDOW_CANCEL':'Отменить','JS_CORE_WINDOW_CONTINUE':'Продолжить','JS_CORE_H':'ч','JS_CORE_M':'м','JS_CORE_S':'с','JSADM_AI_HIDE_EXTRA':'Скрыть лишние','JSADM_AI_ALL_NOTIF':'Показать все','JSADM_AUTH_REQ':'Требуется авторизация!','JS_CORE_WINDOW_AUTH':'Войти','JS_CORE_IMAGE_FULL':'Полный размер'});</script>
+<script type="text/javascript">(window.BX||top.BX).message({'LANGUAGE_ID':'ru','FORMAT_DATE':'DD.MM.YYYY','FORMAT_DATETIME':'DD.MM.YYYY HH:MI:SS','COOKIE_PREFIX':'BITRIX_SM','SERVER_TZ_OFFSET':'10800','SITE_ID':'s1','SITE_DIR':'/','USER_ID':'','SERVER_TIME':'1564232798','USER_TZ_OFFSET':'0','USER_TZ_AUTO':'Y','bitrix_sessid':'5e2d2e31124aa089f767f8143138029a'});</script>
+
+
+<script type="text/javascript" src="/bitrix/cache/js/s1/new/kernel_main/kernel_main.js?1559825323280214"></script>
+<script type="text/javascript">BX.setJSList(['/bitrix/js/main/core/core.js','/bitrix/js/main/core/core_ajax.js','/bitrix/js/main/json/json2.min.js','/bitrix/js/main/core/core_ls.js','/bitrix/js/main/session.js','/bitrix/js/main/core/core_window.js','/bitrix/js/main/core/core_popup.js','/bitrix/js/main/core/core_date.js','/bitrix/js/main/utils.js']); </script>
+
+
+	<title>Частный риэлтор Александр Водолазов, услуги частного риэлтора (Москва), московский маклер</title>
+	<meta name="description" content="">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">	
+	<!-- Template Basic Images Start -->
+	<meta property="og:image" content="path/to/image.jpg">
+	<link rel="icon" href="/local/templates/new/img/favicon/favicon.ico">
+	<link rel="apple-touch-icon" sizes="180x180" href="/local/templates/new/img/favicon/apple-touch-icon-180x180.png">
+	<!-- Template Basic Images End -->	
+	<!-- Custom Browsers Color Start -->
+	<meta name="theme-color" content="#000">
+	<!-- Custom Browsers Color End -->
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="robots" content="index, follow" />
+<meta name="keywords" content="Александр Водолазов" />
+<meta name="description" content="Предлагаю риэлтерские услуги в Москве по выгодным ценам. Частный риэлтор Александр Водолазов. Успешное сотрудничество обеспечивается честностью и профессионализмом." />
+<link href="/bitrix/cache/css/s1/new/kernel_main/kernel_main.css?155982532331472" type="text/css"  rel="stylesheet" />
+<link href="/bitrix/cache/css/s1/new/page_7c09304559d10c0331418b8748533635/page_7c09304559d10c0331418b8748533635.css?1559825323458" type="text/css"  rel="stylesheet" />
+<link href="/bitrix/cache/css/s1/new/template_fb622ae08d6746e94da7208e7c12f374/template_fb622ae08d6746e94da7208e7c12f374.css?15598253231529" type="text/css"  data-template-style="true"  rel="stylesheet" />
+<script type="text/javascript">var _ba = _ba || []; _ba.push(["aid", "708e33c4eaed14798b53a754f3081ed0"]); _ba.push(["host", "www.xn----ptbbkgffcmdog3ic8a.xn--p1ai"]); (function() {var ba = document.createElement("script"); ba.type = "text/javascript"; ba.async = true;ba.src = (document.location.protocol == "https:" ? "https://" : "http://") + "bitrix.info/ba.js";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ba, s);})();</script>
+
+
+	<link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet">
+	<link rel="stylesheet" href="/local/templates/new/libs/fullPage/dist/fullpage.css">
+	<link rel="stylesheet" href="/local/templates/new/libs/slick/slick.css">
+	<link rel="stylesheet" href="/local/templates/new/libs/slick/slick-theme.css">
+			<link rel="stylesheet" href="/local/templates/new/libs/malihu-custom-scrollbar-plugin/jquery.mCustomScrollbar.css">
+		<link rel="stylesheet" href="/local/templates/new/css/main.min.css">
+	<script src="https://api-maps.yandex.ru/2.1/?apikey=f7fbfbc5-9d53-4d24-bb89-09613591cb3c&lang=ru_RU"></script>
+</head>
+<body>
+			<section class="section main-page" data-src="/local/templates/new/video/fon" data-section-name="header">
+		<div class="main-screen">
+			<div class="iphone-video">
+		
+			</div>
+			<div class="main-navbar">
+					<div class="container">
+					<div class="row">
+						<div class="col-lg-3 col-sm-6 col-3">
+							<a href="#" class="logo">
+								<img src="/local/templates/new/img/icons/svg/logo.svg" class="logo-icon" alt="">
+							</a>
+						</div>
+						<div class="col-lg-6 tablet-none">
+							<ul class="menu">
+								<li class="menu__item">
+	<a href="#" class="menu__link" data-scrollto="about-me">Обо мне</a>
+</li>
+<li class="menu__item">
+	<a href="#" class="menu__link" data-scrollto="reasons-to-trust">Продать</a>
+</li>
+<li class="menu__item">
+	<a href="#" class="menu__link" data-scrollto="positive-flat">Купить</a>
+</li>
+<li class="menu__item">
+	<a href="#" class="menu__link" data-scrollto="feedback">Отзывы</a>
+</li>
+<li class="menu__item">
+	<a href="#" class="menu__link" data-scrollto="calculator">Стоимость</a>
+</li>
+<li class="menu__item">
+	<a href="#" class="menu__link" data-scrollto="map">Контакты</a>
+</li>							</ul>
+						</div>
+						<div class="col-lg-3 col-sm-6 col-9">
+							<div class="contacts">
+								<a  href="tel:
+
++7 (495) 772-84-04" class="contacts__phone ya-phone">
+									
+
++7 (495) 772-84-04								</a>
+								<span class="contacts__address">
+									Россия, Москва								</span>
+							</div>
+							<button class="hamburger hamburger--collapse" type="button">
+								  <span class="hamburger-box">
+										<span class="hamburger-inner"></span>
+								  </span>
+							</button>
+						</div>
+					</div>
+				</div>
+			</div>
+						<div class="main-navbar--fixed">
+				<div class="container">
+					<div class="row">
+						<div class="col-lg-3 col-sm-6 col-3">
+							<a href="javascript:void(0);" class="logo">
+								<img src="/local/templates/new/img/icons/svg/logo-gray.svg" class="logo-icon" alt="">
+							</a>
+						</div>
+						<div class="col-lg-6 tablet-none">
+							<ul class="menu">
+								<li class="menu__item">
+	<a href="#" class="menu__link" data-scrollto="about-me">Обо мне</a>
+</li>
+<li class="menu__item">
+	<a href="#" class="menu__link" data-scrollto="reasons-to-trust">Продать</a>
+</li>
+<li class="menu__item">
+	<a href="#" class="menu__link" data-scrollto="positive-flat">Купить</a>
+</li>
+<li class="menu__item">
+	<a href="#" class="menu__link" data-scrollto="feedback">Отзывы</a>
+</li>
+<li class="menu__item">
+	<a href="#" class="menu__link" data-scrollto="calculator">Стоимость</a>
+</li>
+<li class="menu__item">
+	<a href="#" class="menu__link" data-scrollto="map">Контакты</a>
+</li>							</ul>
+						</div>
+						<div class="col-lg-3 col-sm-6 col-9">
+							<div class="contacts">
+								<a  href="tel:
+
++7 (495) 772-84-04" class="contacts__phone">
+									
+
++7 (495) 772-84-04								</a>
+								<span class="contacts__address">
+									Россия, Москва								</span>
+							</div>
+							<button class="hamburger hamburger--collapse" type="button">
+								  <span class="hamburger-box">
+										<span class="hamburger-inner"></span>
+								  </span>
+							</button>
+						</div>
+					</div>
+				</div>
+			</div>
+							<div class="main-page__description-wrap">
+					<div class="container">
+						<div class="row">
+							<div class="col-12">
+								<div class="main-page__description">
+									<h1 class="main-page__description-name">Александр Водолазов</h1>
+									<div class="main-page__description-main-text">
+										<span class="big-text">Недвижимость </span>
+<span> в московском ритме</span>									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="main-page__scroll">
+					<img src="/local/templates/new/img/icons/svg/arrow-down.svg" alt="scroll page">
+				</div>
+								</div>
+	</section><section class="section about-me" data-section-name="information about me" id="about_me">
+		<div class="">
+			<div class="row">
+				<div class="col-xl-12 col-lg-12 col-12">
+					<div class="about-me__block">
+						<div class="info">
+							<h3>Самое важное обо мне</h3>
+							<ul class="about-me__list">
+								<li class="about-me__item">
+	Уже 15 лет в московской недвижимости
+</li>
+<li class="about-me__item">
+	Более 500 сделок купли-продажи
+</li>
+<li class="about-me__item">
+	Высшее юридическое образование
+</li>
+<li class="about-me__item">
+	Работаю официально – выдаю кассовый чек на оплаченные услуги
+</li>
+<li class="about-me__item">
+	Родился и вырос в Москве – люблю свой город и знаю его «как свои пять пальцев»
+</li>
+<li class="about-me__item">
+	Вырастил свою команду профессионалов, за качество работы которой отвечаю лично
+</li>
+<li class="about-me__item">
+	Главное в жизни – семья. Женат. Двое замечательных детей.
+</li>							</ul>
+						</div>
+						<div class="about-me__pic-wrap">
+							<img src="/local/templates/new/img/about-me-another.jpg" alt="" class="about-me__img">
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+	<section class="section reasons-to-trust" data-section-name="selling" id="selling">
+		<div class="reasons-to-trust__fon-wrap">
+			<div class="container">
+				<div class="row">
+					<div class="col-lg-7 col-xl-8 col-md-12">
+						<div class="reasons-block">
+							<h3 class="reasons-to-trust__header"><span class="gray-text">7 причин</span> доверить мне продажу вашей квартиры или дома</h3>
+							<ul class="reasons-to-trust__list">
+								
+
+<li class="reasons-to-trust__item">
+	<p>Оплата только за результат. При заключении договора не беру никакой предоплаты.</p>
+</li>
+<li class="reasons-to-trust__item">
+	<p>Только профессиональная фотосъемка недвижимости.</p>
+</li>
+<li class="reasons-to-trust__item">
+	<p>Реклама объектов на всех ведущих сайтах с ежедневным премиальным продвижением на первые строчки.</p>
+</li>
+<li class="reasons-to-trust__item">
+	<p>Создание отдельного сайта под ваш объект. Продвижение в Яндекс, Google.</p>
+</li>
+<li class="reasons-to-trust__item">
+	<p>Выдаю официальное письменное заключение по всем налоговым вопросам, связанным с продажей недвижимости.</p>
+	</li>
+<li class="reasons-to-trust__item">
+	<p>Сбор всех документов для сделки по доверенности. Вам нужно только прийти на сделку и получить деньги.</p>
+</li>
+<li class="reasons-to-trust__item">
+	<p>Решение о цене недвижимости всегда за клиентом. Никогда не навязываю своего мнения. Моя задача предоставить реальную информацию и добросовестно делать свою работу.</p>
+</li>							</ul>
+						</div>
+					</div>
+					<div class="col-lg-5 col-xl-4 col-md-12">
+						<div class="reasons-to-trust__ad">
+							<div class="reasons-to-trust__BTI">
+							<div style="background:#000;webkit-border-radius: 10px;-moz-border-radius: 10px;border-radius: 10px;overflow:hidden;height: 208px;">
+								<iframe width="370" height="208" src="https://www.youtube.com/embed/JLL_PfBWT0I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+							</div>	
+															</div>
+							<div class="reasons-to-trust__quick-shell">
+								<h4 class="quick-shell-header">Уже давно продаете свою квартиру или дом?</h4>
+<span class="quick-shell-text">Узнайте сейчас как быстрее найти покупателя</span>								<a href="javascript:void(0);" class="button on-popup off-scroll-page" data-popup="free-sell">Бесплатно получить отчет</a>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>		
+	</section>
+	<section class="section re-hash" data-section-name="my advantages">
+		<div class="container">
+			<div class="row">
+				<div class="col-12">
+					<h2 class="re-hash__header">Почему клиенты обращаются снова и рекомендуют меня друзьям</h2>
+					<div class="re-hash__cart-wrap">
+						<div class="re-hash__cart">
+	<div class="re-hash__cart-img-wrap">
+		<img src="/local/templates/new/img/icons/svg/man-vs-bord.svg" alt="" class="re-hash__cart-img">
+	</div>
+	<p class="re-hash__cart-text">Предварительно разработанный маркетинговый план с точным расчетом максимальной цены и нужных сроков.</p>
+</div>
+<div class="re-hash__cart">
+	<div class="re-hash__cart-img-wrap">
+		<img src="/local/templates/new/img/icons/svg/calendar.svg" alt="" class="re-hash__cart-img">
+	</div>
+	<p class="re-hash__cart-text">Еженедельный отчет о продаже и анализ ситуации на рынке.</p>
+	<span class="re-hash__cart-tag">Еженедельно</span>
+</div>
+<div class="re-hash__cart">
+	<div class="re-hash__cart-img-wrap">
+		<img src="/local/templates/new/img/icons/svg/man-and-arrows.svg" alt="" class="re-hash__cart-img">
+	</div>
+	<p class="re-hash__cart-text">С раннего утра и до позднего вечера на связи с клиентами, 7 дней в неделю. Всегда и везде вовремя, без отговорок про «московские пробки».</p>
+</div>
+<div class="re-hash__cart">
+	<div class="re-hash__cart-img-wrap">
+		<img src="/local/templates/new/img/icons/svg/calculator.svg" alt="" class="re-hash__cart-img">
+	</div>
+	<p class="re-hash__cart-text">Понятное, полностью открытое, обоснованное вознаграждение. Никогда никаких доплат и дополнительных расходов для клиентов.</p>
+</div>
+<div class="re-hash__cart">
+	<div class="re-hash__cart-img-wrap">
+		<img src="/local/templates/new/img/icons/svg/tv.svg" alt="" class="re-hash__cart-img">
+	</div>
+	<p class="re-hash__cart-text">Перед каждой сделкой заранее все детали согласуются между всеми участниками в электронном виде. Сделки проходят в позитивной, деловой атмосфере.</p>
+</div>					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+	<section class="section additional-options" data-section-name="my advantages">
+		<div class="additional-options__shadows">
+			<div class="container">
+				<div class="row">
+					<div class="col-12">
+						<div class="additional-options__wrap">
+							<div class="additional-options__img-bg">
+							</div>
+							<div class="additional-options__content">
+								<h2 class="additional-options__content-header">Дополнительные опции <br>при продаже недвижимости</h2>								
+								<div class="additional-options__content-list">
+									<div class="additional-options__content-item">
+	<img src="/local/templates/new/img/icons/svg/add-icon-1.svg" class="additional-options__content-item-img" alt="test">
+	<span class="additional-options__content-item-text">
+		Срочный <br>выкуп
+	</span>
+</div>
+<div class="additional-options__content-item">
+	<img src="/local/templates/new/img/icons/svg/add-icon-2.svg" class="additional-options__content-item-img" alt="test">
+	<span class="additional-options__content-item-text">
+		Продажа квартиры за <br> <span class="red-text">1,5 месяца</span> <br> с финансовой гарантией
+	</span>
+</div>
+<div class="additional-options__content-item">
+	<img src="/local/templates/new/img/icons/svg/add-icon-3.svg" class="additional-options__content-item-img" alt="test">
+	<span class="additional-options__content-item-text">
+		Предпродажная подготовка
+	</span>
+</div>
+<div class="additional-options__content-item">
+	<img src="/local/templates/new/img/icons/svg/add-icon-4.svg" class="additional-options__content-item-img" alt="test">
+	<span class="additional-options__content-item-text">
+		Предоплата на период продажи
+	</span>
+</div>								</div>
+								<div class="clearfix"></div>
+								<div class="additional-options__content-history">
+									<p>Уже 15 лет я помогаю клиентам решать любые задачи, связанные с продажей недвижимости. В том числе, самые нестандартные и сложные.</p>
+<p>Для меня не проблема сделать разъезд из одной квартиры на четыре. Опека, приватизация, продажа ипотечных квартир и многое другое. В каждом случае я помогу найти оптимальное решение. Вы можете бесплатно получить консультацию по всем вопросам.</p>
+																		<a href="javascript:void(0);" class="button on-popup off-scroll-page" data-popup="ask">Получить консультацию</a>
+								</div>
+							</div>
+						</div>
+					</div>
+
+				</div>
+			</div>
+		</div>		
+	</section>
+	<section class="section positive-flat" data-section-name="buying" id="buying">
+		<div class="container">
+			<div class="row">
+				<div class="col-12">
+					<div class="desc-wrap">
+						<h3>Покупка квартиры - <span class="accent">на позитиве</span></h3>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+	<section class="section most-important-things" data-section-name="most important things">
+		<div class="most-important-things__wrap">
+			<div class="container">
+				<div class="row">
+					<div class="col-12">
+						<h2 class="most-important-things__header">Я знаю, что важнее всего для вас при покупке недвижимости</h2>
+					</div>
+				</div>
+				<div class="row  justify-content-between">
+					
+<div class="col-xl-4 col-12">
+	<div class="most-important-things__item left-item">
+		<div class="most-important-things__item-img-wrap">
+			<img src="/local/templates/new/img/icons/svg/most-icon-1.svg" alt="hand with watch" class="most-important-things__item-img" >
+			<span class="most-important-things__item-name">
+				Ваше время
+			</span>
+		</div>	
+
+		<div class="most-important-things__item-text">
+			<p>Я просеиваю и обрабатываю десятки и сотни объявлений о продаже, избавляя вас от необходимости тратить время впустую на просмотр заведомо несуществующих вариантов или тех, где есть «подводные камни».</p>
+			<p>Вся работа по одобрению ипотечного кредита в электронном виде. Вам не надо лично ходить в банки. Можно просто прислать документы по электронной почте.</p>
+		</div>
+	</div>
+</div>
+<div class="col-xl-4 col-12">
+	<div class="most-important-things__item center-item">
+		<div class="most-important-things__item-img-wrap">
+			<div class="achiv">Экономите<br> до 10%<br> от стоимости</div>
+			<img src="/local/templates/new/img/icons/svg/most-icon-2.svg" alt="calculator" class="most-important-things__item-img" >
+			<span class="most-important-things__item-name">
+				Ваши деньги
+			</span>
+		</div>	
+		<div class="most-important-things__item-text">
+			<p>Я нахожу квартиры и дома для своих клиентов не только на сайтах и в специальных базах по недвижимости. Я один из немногих риэлторов в Москве, профессионально занимающихся покупкой недвижимости на различных торгах и аукционах, которые проводит государство и коммерческие организации. Также я работаю с базами данных залогового имущества во всех московских банках. С моей помощью клиенты могут найти удачный вариант до 10% дешевле рынка.</p>
+		</div>
+	</div>
+</div>
+<div class="col-xl-4 col-12">
+	<div class="most-important-things__item right-item">
+		<div class="most-important-things__item-img-wrap">
+			<img src="/local/templates/new/img/icons/svg/most-icon-3.svg"  class="most-important-things__item-img" alt="heard">
+			<span class="most-important-things__item-name">
+				Ваши нервы
+			</span>
+		</div>	
+		<div class="most-important-things__item-text">
+			<p>Я представляю полный официальный отчет о юридической чистоте сделки, который содержит конкретные документы и результаты проверок. Вы можете сами убедиться в том, что при покупке у вас на 100% отсутствуют даже гипотетические риски.</p>
+			<p>Проведя за 15 лет работы более 500 сделок купли-продажи недвижимости, я ни одного раза не был участником ни одного судебного разбирательства.</p>
+		</div>
+	</div>
+</div>				</div>
+			</div>
+		</div>
+	</section>
+	<section class="section my-proposition" data-section-name="proposition">
+		<div class="my-proposition__offers">
+			<div class="my-proposition__offers-wrap">
+				<div class="container">
+					<div class="row">
+						<div class="col-12">
+							<div class="offers-info">
+								<p class="offers-info__text">
+									
+Я могу предложить вам <br>
+<span class="red-text">более 100 новостроек </span>
+<br>Москвы и Подмосковья по цене от застройщика								</p>
+								<a href="javascript:void(0);" class="button on-popup off-scroll-page" data-popup="queprice1">Выбрать новостройку</a>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="my-proposition__banks">
+			<div class="container">
+				<div class="row">
+					<div class="col-12">
+						<h2 class="my-proposition__banks-header">Официальный партнер всех ведущих банков</h2>
+						<form action="#" method="POST">
+							<ul class="my-proposition__banks-list">
+								
+<li class="my-proposition__bank">
+	<label>
+	<input type="radio" name="bank">
+	<img src="/local/templates/new/img/raiffeisen_bank.png" alt="Райффайзенбанк ">
+	</label>
+</li>
+<li class="my-proposition__bank">
+	<label>
+	<input type="radio" name="bank">
+	<img src="/local/templates/new/img/deltacredit.png" alt="ДельтаКредит">
+	</label>
+</li>
+<li class="my-proposition__bank">
+	<label>
+	<input type="radio" name="bank">
+	<img src="/local/templates/new/img/sberbank.png" alt="Сбербанк">
+	</label>
+</li>
+<li class="my-proposition__bank">
+	<label>
+	<input type="radio" name="bank">
+	<img src="/local/templates/new/img/VTB.png" alt="ВТБ">
+	</label>
+</li>
+<li class="my-proposition__bank">
+	<label>
+	<input type="radio" name="bank">
+	<img src="/local/templates/new/img/absolut-bank.png" alt="Абсолют Банк">
+	</label>
+</li>							</ul>
+						</form>
+											</div>
+				</div>
+			</div>
+		</div>
+	</section>	
+	<section class="section feedback" data-section-name="feedbacks" id="feedbacks">
+		<div class="container">
+			<div class="row">
+				<div class="col-12">
+					<h2 class="feedback__header">Отзывы</h2>
+					<div class="feedback__item-list clearfix">	
+								<div class="feedback__item" id="bx_3218110189_92">
+		<div class="img-wrap custom_height">
+			<img src="/upload/iblock/724/%D0%9C%D0%B0%D1%80%D0%B8%D0%BD%D0%B0%20%D0%B8%20%D0%93%D0%B0%D0%B1%D1%80%D0%B8%D0%B5%D0%BB%D1%8C.jpg" alt="Марина Крайнева и Габриель Ортис" title="Марина Крайнева и Габриель Ортис">
+			<span class="feedback__person custom_height">Марина Крайнева и Габриель Ортис</span>
+		</div>	
+		<div class="feedback__text-wrap">
+			<h4 class="feedback__header">Продажа 2 к кв. на ул. Трофимова 16</h4>
+			<div class="feedback__text">
+				<p>«Опыт продажи квартиры был ранее, есть с чем сравнивать. Оперативный и профессиональный подход к нашему варианту. Учтены были все пожелания и нюансы. Показы начались практически сразу же после поступления нашего контракта в работу. Без каких либо накладок и недоразумений. Cделка прошла быстро, с учётом всех пожеланий обеих сторон. Остались довольны вне всякого сомнения. Отдельное спасибо, Петру Звереву, нашему персональному менеджеру»</p>
+			</div>
+		</div>
+	</div>
+		<div class="feedback__item" id="bx_3218110189_90">
+		<div class="img-wrap custom_height">
+			<img src="/upload/iblock/bcd/%D0%9D%D0%B0%20%D1%81%D0%B0%D0%B9%D1%82%20%D0%92%D0%B8%D0%BA%D1%82%D0%BE%D1%80%D0%B8%D1%8F.jpg" alt="Виктория Кормилицина" title="Виктория Кормилицина">
+			<span class="feedback__person custom_height">Виктория Кормилицина</span>
+		</div>	
+		<div class="feedback__text-wrap">
+			<h4 class="feedback__header">Менеджер по работе с партнерами Райффайзен Банка в сфере ипотечного кредитования</h4>
+			<div class="feedback__text">
+				<p>«Мы видим со стороны Александра Водолазова и всех специалистов, которые работают в его команде очень тщательный, индивидуальный подход к каждому клиенту. Они всегда в курсе всех актуальных новостей, акций и условий по продуктам нашего банка, всегда ищут возможность предложить клиентам оптимальные решения. Александр Водолазов прекрасный организатор, сделки проходят гладко, клиенты всегда довольны. Могу сказать от себя лично, я сама при случае обязательно обращусь за риэлторскими услугами именно к нему»</p>
+			</div>
+		</div>
+	</div>
+		<div class="feedback__item" id="bx_3218110189_89">
+		<div class="img-wrap custom_height">
+			<img src="/upload/iblock/650/%D0%9E%D1%82%D0%B7%D1%8B%D0%B2%20%D0%BE%D1%82%20%D1%80%D0%B8%D1%8D%D0%BB%D1%82%D0%BE%D1%80%D0%B5%201.jpeg" alt="Татьяна Корсакова" title="Татьяна Корсакова">
+			<span class="feedback__person custom_height">Татьяна Корсакова</span>
+		</div>	
+		<div class="feedback__text-wrap">
+			<h4 class="feedback__header">Продажа 2 комн. квартиры Федеративный пр-т, д.50</h4>
+			<div class="feedback__text">
+				<p>«Отличная работа. По срокам продажи все получилось точно, как планировали при заключении договора. А по деньгам даже чуть больше. Впечатлило, как Александр и его команда работают с покупателями, всегда терпеливо, корректно, сглаживают все острые вопросы. Даже если сложные люди попадаются. Это очень непросто. Я всем друзьям и знакомым теперь рекомендую обращаться к Александру. Действительно надежный специалист&nbsp;&nbsp;»</p>
+			</div>
+		</div>
+	</div>
+		<div class="feedback__item" id="bx_3218110189_339">
+		<div class="img-wrap custom_height">
+			<img src="/upload/iblock/1a1/WhatsApp%20Image%202018-11-23%20at%2018.59.21.jpeg" alt="Галина Алексеевна, Анастасия и Александр" title="Галина Алексеевна, Анастасия и Александр">
+			<span class="feedback__person custom_height">Галина Алексеевна, Анастасия и Александр</span>
+		</div>	
+		<div class="feedback__text-wrap">
+			<h4 class="feedback__header">Разъезд 3 комн. Варшавское шоссе, д. 154, корп. 3</h4>
+			<div class="feedback__text">
+				<p>«Большое спасибо Водолазову Александру за оперативное решение купли-продажи квартир. Я и моя семья остались очень довольны. Одновременно выражаем благодарность Луизо Александру и Ломовцеву Дмитрию. Желаем успехов в работе.<br />
+С уважением Галина Алексеевна, Анастасия и Александр.<br />
+»</p>
+			</div>
+		</div>
+	</div>
+		<div class="feedback__item" id="bx_3218110189_340">
+		<div class="img-wrap custom_height">
+			<img src="/upload/iblock/3bc/%D0%9C%D1%83%D1%85%D0%B8%D0%BD%D0%B0%20%D1%81%D0%B0%D0%B9%D1%82.jpg" alt="Александра Мухина" title="Александра Мухина">
+			<span class="feedback__person custom_height">Александра Мухина</span>
+		</div>	
+		<div class="feedback__text-wrap">
+			<h4 class="feedback__header">Менеджер по работе с партнерами Абсолют Банк в сфере ипотечного кредитования</h4>
+			<div class="feedback__text">
+				<p>«Мы всегда рады сотрудничеству с Александром Водолазовым и его командой. Всегда очень приятно с ними работать. Желаем процветания и успехов. »</p>
+			</div>
+		</div>
+	</div>
+		<div class="feedback__item" id="bx_3218110189_338">
+		<div class="img-wrap custom_height">
+			<img src="/upload/iblock/364/%D0%94%D0%BB%D1%8F%20%D1%81%D0%B0%D0%B9%D1%82%D0%B0%20%D0%A7%D0%B8%D1%81%D1%82%D0%BE%D0%B2.jpg" alt="Александр Чистов" title="Александр Чистов">
+			<span class="feedback__person custom_height">Александр Чистов</span>
+		</div>	
+		<div class="feedback__text-wrap">
+			<h4 class="feedback__header">Продажа комнаты в 2 к кв. ул. Гастелло, д.41</h4>
+			<div class="feedback__text">
+				<p>«Быстрый подбор покупателей,точность,пунктуальность во всем,личное присутствие и консультации по всем вопросам.Комнату продали за полтора месяца.Все довольны.Большое спасибо Агентству Министерство Недвижимости,руководителю Водолазову А.А и агенту Дмитрию Ломовцеву особенно. Здоровья ВАМ,СЧАСТЬЯ,ПРОЦВЕТАНИЯ. Чистов.А.А..За честную работу-честный отзыв.»</p>
+			</div>
+		</div>
+	</div>
+					
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+	<section class="section calculator" data-section-name="calculator" id="calculator">
+		<div class="container">
+			<div class="row">
+				<div class="col-12">
+					<h2 class="calculator__header">Калькулятор стоимости услуг</h2>
+				</div>
+			</div>
+		</div>
+		<form action="#" method="POST" id="main_calc">
+	<div class="container">
+		<div class="row">
+			<div class="col-12">
+				<div class="calculator__parameters">
+					<div class="calculator__option">
+						<span class="calculator__option-name">Тип операции</span>
+						<div class="calculator__option-panel">
+							<div class="calculator__option-variant">
+								<input type="radio" name="operation-type" value="1" id="operation-type-1" checked="checked">
+								<label for="operation-type-1">Продажа</label>
+							</div>
+							<div class="calculator__option-variant">
+								<input type="radio" name="operation-type" value="2" id="operation-type-2">
+								<label for="operation-type-2">Покупка</label>
+							</div>
+						</div>
+					</div>
+					<div class="calculator__option">
+						<span class="calculator__option-name">Тип недвижимости</span>
+						<div class="calculator__option-panel">
+							<div class="calculator__option-variant">
+								<input type="radio" name="build-type" value="1" id="build-type-1" checked="checked">
+								<label for="build-type-1">Квартира</label>
+							</div>
+							<div class="calculator__option-variant">
+								<input type="radio" name="build-type" value="2" id="build-type-2">
+								<label for="build-type-2">Дом</label>
+							</div>
+							<div class="calculator__option-variant">
+								<input type="radio" name="build-type" value="3" id="build-type-3">
+								<label for="build-type-3">Участок</label>
+							</div>
+							<div class="calculator__option-variant">
+								<input type="radio" name="build-type" value="4" id="build-type-4">
+								<label for="build-type-4">Таунхаус</label>
+							</div>
+						</div>
+					</div>
+					<div class="calculator__option">
+						<span class="calculator__option-name">Ценовой диапазон</span>
+						<div class="calculator__option-panel">
+							<div class="calculator__option-variant">
+								<input type="radio" name="price-type" value="1" id="price-type-1">
+								<label for="price-type-1">до 5 000 000 &#8381;</label>
+							</div>
+							<div class="calculator__option-variant">
+								<input type="radio" name="price-type" value="2" id="price-type-2" checked="checked">
+								<label for="price-type-2">от 5 000 000 &#8381;</label>
+							</div>
+													</div>
+					</div>
+					<div class="calculator__parameters-base-rate">
+						<div class="base-rate__val">
+							<span class="base-rate__val-text" id="base_percent_text">Стоимость услуг</span>
+							<span class="base-rate__val-cur" id="base_percent">1,9%</span>
+						</div>
+						<div class="base-rate-info" id="base_percent_info">Выберите нужные параметры чтобы изменить процент</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="row">
+			<div class="col-xl-6 offset-xl-3 col-12">
+				<div class="calculator__parameters-long">
+					<div class="calculator__option-long" id="state_apart">
+						<span class="calculator__option-name">Состояние</span>
+						<div class="calculator__option-panel">
+							<div class="calculator__option-variant">
+								<input type="radio" name="build-state" value="1" id="build-state-1" checked="checked">
+								<label for="build-state-1">Сделан качественный капитальный ремонт «под ключ»</label>
+							</div>
+							<div class="calculator__option-variant">
+								<input type="radio" name="build-state" value="2" id="build-state-2">
+								<label for="build-state-2">Сделан (планируется) косметический ремонт или качественная предпродажная подготовка</label>
+							</div>
+							<div class="calculator__option-variant">
+								<input type="radio" name="build-state" value="3" id="build-state-3">
+								<label for="build-state-3">Требует косметического  ремонта или качественной предпродажной подготовки</label>
+							</div>
+							<div class="calculator__option-variant">
+								<input type="radio" name="build-state" value="4" id="build-state-4">
+								<label for="build-state-4">Требует капитального ремонта</label>
+							</div>
+							<div class="calculator__option-variant">
+								<input type="radio" name="build-state" value="5" id="build-state-5">
+								<label for="build-state-5">Квартира в новостройке без отделки</label>
+							</div>
+						</div>
+					</div>
+					<div class="calculator__option-long" id="strategy_apart">
+						<span class="calculator__option-name">Стратегия продажи</span>
+						<div class="calculator__option-panel">
+							<div class="calculator__option-variant">
+								<input type="radio" name="build-strategy" value="1" id="build-strategy-1" checked="checked">
+								<label for="build-strategy-1">Цена изначально рыночная – конкретные сроки</label>
+							</div>
+							<div class="calculator__option-variant">
+								<input type="radio" name="build-strategy" value="2" id="build-strategy-2">
+								<label for="build-strategy-2">Цена изначально завышена – неопределенные сроки</label>
+							</div>
+						</div>
+					</div>
+					<div class="calculator__option-long" id="state_house" style="display:none;">
+						<span class="calculator__option-name">Состояние дома</span>
+						<div class="calculator__option-panel">
+							<div class="calculator__option-variant">
+								<input type="radio" name="build-state-house" value="1" id="build-state-house-1">
+								<label for="build-state-house-1">Сделан качественный капитальный ремонт «под ключ»</label>
+							</div>
+							<div class="calculator__option-variant">
+								<input type="radio" name="build-state-house" value="2" id="build-state-house-2">
+								<label for="build-state-house-2">Требует капитального ремонта</label>
+							</div>
+							<div class="calculator__option-variant">
+								<input type="radio" name="build-state-house" value="3" id="build-state-house-3">
+								<label for="build-state-house-3">Сделан (планируется) косметический ремонт или качественная предпродажная подготовка</label>
+							</div>
+							<div class="calculator__option-variant">
+								<input type="radio" name="build-state-house" value="4" id="build-state-house-4">
+								<label for="build-state-house-4">Требует косметического  ремонта или качественной предпродажной подготовки</label>
+							</div>
+							<div class="calculator__option-variant">
+								<input type="radio" name="build-state-house" value="5" id="build-state-house-5">
+								<label for="build-state-house-5">Дом под чистовую отделку</label>
+							</div>
+							<div class="calculator__option-variant">
+								<input type="radio" name="build-state-house" value="6" id="build-state-house-6">
+								<label for="build-state-house-6">Замороженная стройка или дом под снос</label>
+							</div>
+						</div>
+					</div>
+					<div class="calculator__option-long" id="strategy_house" style="display:none;">
+						<span class="calculator__option-name">Стратегия продажи</span>
+						<div class="calculator__option-panel">
+							<div class="calculator__option-variant">
+								<input type="radio" name="build-strategy-house" value="1" id="build-strategy-house-1">
+								<label for="build-strategy-house-1">Цена изначально рыночная – конкретные сроки</label>
+							</div>
+							<div class="calculator__option-variant">
+								<input type="radio" name="build-strategy-house" value="2" id="build-strategy-house-2">
+								<label for="build-strategy-house-2">Цена изначально завышена – неопределенные сроки</label>
+							</div>
+						</div>
+					</div>
+					<div class="calculator__option-long" id="state_stead" style="display:none;">
+						<span class="calculator__option-name">Состояние участка</span>
+						<div class="calculator__option-panel">
+							<div class="calculator__option-variant">
+								<input type="radio" name="build-state-stead" value="1" id="build-state-stead-1">
+								<label for="build-state-stead-1">Ухоженный - чистый</label>
+							</div>
+							<div class="calculator__option-variant">
+								<input type="radio" name="build-state-stead" value="2" id="build-state-stead-2">
+								<label for="build-state-stead-2">Заросший – захламленный</label>
+							</div>
+							<div class="calculator__option-variant">
+								<input type="radio" name="build-state-stead" value="3" id="build-state-stead-3">
+								<label for="build-state-stead-3">Есть строения под снос</label>
+							</div>
+						</div>
+					</div>
+					<div class="calculator__option-long" id="strategy_stead" style="display:none;">
+						<span class="calculator__option-name">Стратегия продажи</span>
+						<div class="calculator__option-panel">
+							<div class="calculator__option-variant">
+								<input type="radio" name="build-strategy-stead" value="1" id="build-strategy-stead-1">
+								<label for="build-strategy-stead-1">Цена изначально рыночная – конкретные сроки</label>
+							</div>
+							<div class="calculator__option-variant">
+								<input type="radio" name="build-strategy-stead" value="2" id="build-strategy-stead-2">
+								<label for="build-strategy-stead-2">Цена изначально завышена – неопределенные сроки</label>
+							</div>
+						</div>
+					</div>
+					<div class="calculator__option-long" id="state_town" style="display:none;">
+						<span class="calculator__option-name">Состояние таунхауса</span>
+						<div class="calculator__option-panel">
+							<div class="calculator__option-variant">
+								<input type="radio" name="build-state-town" value="1" id="build-state-town-1">
+								<label for="build-state-town-1">Сделан качественный капитальный ремонт «под ключ»</label>
+							</div>
+							<div class="calculator__option-variant">
+								<input type="radio" name="build-state-town" value="2" id="build-state-town-2">
+								<label for="build-state-town-2">Сделан (планируется) косметический ремонт или качественная предпродажная подготовка</label>
+							</div>
+							<div class="calculator__option-variant">
+								<input type="radio" name="build-state-town" value="3" id="build-state-town-3">
+								<label for="build-state-town-3">Требует косметического  ремонта или качественной предпродажной подготовки</label>
+							</div>
+							<div class="calculator__option-variant">
+								<input type="radio" name="build-state-town" value="4" id="build-state-town-4">
+								<label for="build-state-town-4">Требует капитального ремонта</label>
+							</div>
+							<div class="calculator__option-variant">
+								<input type="radio" name="build-state-town" value="5" id="build-state-town-5">
+								<label for="build-state-town-5">Таунхаус под чистовую отделку</label>
+							</div>
+							<div class="calculator__option-variant">
+								<input type="radio" name="build-state-town" value="6" id="build-state-town-6">
+								<label for="build-state-town-6">Замороженная стройка или дом под снос</label>
+							</div>
+						</div>
+					</div>
+					<div class="calculator__option-long" id="strategy_town" style="display:none;">
+						<span class="calculator__option-name">Стратегия продажи</span>
+						<div class="calculator__option-panel">
+							<div class="calculator__option-variant">
+								<input type="radio" name="build-strategy-town" value="1" id="build-strategy-town-1">
+								<label for="build-strategy-town-1">Цена изначально рыночная – конкретные сроки</label>
+							</div>
+							<div class="calculator__option-variant">
+								<input type="radio" name="build-strategy-town" value="2" id="build-strategy-town-2">
+								<label for="build-strategy-town-2">Цена изначально завышена – неопределенные сроки</label>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="calculator__option-long" id="money_apart" style="display:none;">
+						<span class="calculator__option-name">Денежные средства</span>
+						<div class="calculator__option-panel">
+							<div class="calculator__option-variant">
+								<input type="radio" name="money" value="1" id="money-1">
+								<label for="money-1">Ипотека оформлена самостоятельно</label>
+							</div>
+							<div class="calculator__option-variant">
+								<input type="radio" name="money" value="2" id="money-2">
+								<label for="money-2">Ипотека оформлена по партнерской программе</label>
+							</div>
+							<div class="calculator__option-variant">
+								<input type="radio" name="money" value="3" id="money-3">
+								<label for="money-3">Покупка без ипотеки</label>
+							</div>
+						</div>
+					</div>
+					<div class="calculator__option-long" id="calc_search_apart" style="display:none;">
+						<span class="calculator__option-name">Тип поиска</span>
+						<div class="calculator__option-panel">
+							<div class="calculator__option-variant">
+								<input type="radio" name="calc-search" value="1" id="calc-search-1">
+								<label for="calc-search-1">Только предложения от застройщиков</label>
+							</div>
+							<div class="calculator__option-variant">
+								<input type="radio" name="calc-search" value="2" id="calc-search-2">
+								<label for="calc-search-2">Только вторичный рынок</label>
+							</div>
+							<div class="calculator__option-variant">
+								<input type="radio" name="calc-search" value="3" id="calc-search-3">
+								<label for="calc-search-3">Вторичный рынок и предложения застройщиков</label>
+							</div>
+							<div class="calculator__option-variant">
+								<input type="radio" name="calc-search" value="4" id="calc-search-4">
+								<label for="calc-search-4">Квартиры по ценам от застройщика на моем сайте</label>
+							</div>
+						</div>
+					</div>
+					<div class="calculator__option-long" id="money_house" style="display:none;">
+						<span class="calculator__option-name">Денежные средства</span>
+						<div class="calculator__option-panel">
+							<div class="calculator__option-variant">
+								<input type="radio" name="money-house" value="1" id="money-house-1">
+								<label for="money-house-1">Ипотека оформлена самостоятельно</label>
+							</div>
+							<div class="calculator__option-variant">
+								<input type="radio" name="money-house" value="2" id="money-house-2">
+								<label for="money-house-2">Ипотека оформлена по партнерской программе</label>
+							</div>
+							<div class="calculator__option-variant">
+								<input type="radio" name="money-house" value="3" id="money-house-3">
+								<label for="money-house-3">Покупка без ипотеки</label>
+							</div>
+						</div>
+					</div>
+					<div class="calculator__option-long" id="calc_search_house" style="display:none;">
+						<span class="calculator__option-name">Тип поиска</span>
+						<div class="calculator__option-panel">
+							<div class="calculator__option-variant">
+								<input type="radio" name="calc-search-house" value="1" id="calc-search-house-1">
+								<label for="calc-search-house-1">Только предложения от застройщиков</label>
+							</div>
+							<div class="calculator__option-variant">
+								<input type="radio" name="calc-search-house" value="2" id="calc-search-house-2">
+								<label for="calc-search-house-2">Только вторичный рынок</label>
+							</div>
+							<div class="calculator__option-variant">
+								<input type="radio" name="calc-search-house" value="3" id="calc-search-house-3">
+								<label for="calc-search-house-3">Вторичный рынок и предложения застройщиков</label>
+							</div>
+						</div>
+					</div>
+					<div class="calculator__option-long" id="money_stead" style="display:none;">
+						<span class="calculator__option-name">Денежные средства</span>
+						<div class="calculator__option-panel">
+							<div class="calculator__option-variant">
+								<input type="radio" name="money-stead" value="1" id="money-stead-1">
+								<label for="money-stead-1">Ипотека оформлена самостоятельно</label>
+							</div>
+							<div class="calculator__option-variant">
+								<input type="radio" name="money-stead" value="2" id="money-stead-2">
+								<label for="money-stead-2">Ипотека оформлена по партнерской программе</label>
+							</div>
+							<div class="calculator__option-variant">
+								<input type="radio" name="money-stead" value="3" id="money-stead-3">
+								<label for="money-stead-3">Покупка без ипотеки</label>
+							</div>
+						</div>
+					</div>
+					<div class="calculator__option-long" id="calc_search_stead" style="display:none;">
+										</div>
+					<div class="calculator__option-long" id="money_town" style="display:none;">
+						<span class="calculator__option-name">Денежные средства</span>
+						<div class="calculator__option-panel">
+							<div class="calculator__option-variant">
+								<input type="radio" name="money-town" value="1" id="money-town-1">
+								<label for="money-town-1">Ипотека оформлена самостоятельно</label>
+							</div>
+							<div class="calculator__option-variant">
+								<input type="radio" name="money-town" value="2" id="money-town-2">
+								<label for="money-town-2">Ипотека оформлена по партнерской программе</label>
+							</div>
+							<div class="calculator__option-variant">
+								<input type="radio" name="money-town" value="3" id="money-town-3">
+								<label for="money-town-3">Покупка без ипотеки</label>
+							</div>
+						</div>
+					</div>
+					<div class="calculator__option-long" id="calc_search_town" style="display:none;">
+										</div>
+			</div>
+			<div class="col-xl-6 offset-xl-3 col-12">
+				<div class="calculator__parameters-long right-clc">
+					<div class="calculator__option calculator__option--geo" id="geo_apart">
+						<span class="calculator__option-name">География</span>
+						<div class="calculator__option-panel">
+							<div class="calculator__option-variant">
+								<input type="radio" name="geopos" value="1" id="geopos-1" checked="checked">
+								<label for="geopos-1">Москва</label>
+							</div>
+							<div class="calculator__option-variant">
+								<input type="radio" name="geopos" value="2" id="geopos-2">
+								<label for="geopos-2">Новая<br> Москва</label>
+							</div>
+							<div class="calculator__option-variant">
+								<input type="radio" name="geopos" value="3" id="geopos-3">
+								<label for="geopos-3">Область <br>(до 10 км)</label>
+							</div>
+							<div class="calculator__option-variant">
+								<input type="radio" name="geopos" value="4" id="geopos-4">
+								<label for="geopos-4">Область <br>(до 30 км)</label>
+							</div>
+						</div>
+					</div>
+					<div class="calculator__option-long second-marketplace" id="second_apart">
+						<div class="calculator__option-name">Статус <br>
+							<span class="itl"></span>
+						</div>
+						<div class="calculator__option-panel">
+							<div class="calculator__option-variant">
+								<input type="radio" name="second-marketplace" value="1" id="second-marketplace-1" checked="checked">
+								<label for="second-marketplace-1">Никто не живет, свободна от личных вещей</label>
+							</div>
+							<div class="calculator__option-variant">
+								<input type="radio" name="second-marketplace" value="2" id="second-marketplace-2">
+								<label for="second-marketplace-2">Квартира жилая с личными вещами хозяев</label>
+							</div>
+							<div class="calculator__option-variant">
+								<input type="radio" name="second-marketplace" value="3" id="second-marketplace-3">
+								<label for="second-marketplace-3">Квартира жилая, есть домашние животные</label>
+							</div>
+						</div>
+					</div>
+					<div class="calculator__option calculator__option--geo" id="geo_house" style="display:none;">
+						<span class="calculator__option-name">География</span>
+						<div class="calculator__option-panel">
+							<div class="calculator__option-variant">
+								<input type="radio" name="geopos-house" value="1" id="geopos-house-1">
+								<label for="geopos-house-1">Москва</label>
+							</div>
+							<div class="calculator__option-variant">
+								<input type="radio" name="geopos-house" value="2" id="geopos-house-2">
+								<label for="geopos-house-2">Новая<br> Москва</label>
+							</div>
+							<div class="calculator__option-variant">
+								<input type="radio" name="geopos-house" value="3" id="geopos-house-3">
+								<label for="geopos-house-3">Область <br>(до 20 км)</label>
+							</div>
+							<div class="calculator__option-variant">
+								<input type="radio" name="geopos-house" value="4" id="geopos-house-4">
+								<label for="geopos-house-4">Область <br>(от 20 км)</label>
+							</div>
+						</div>
+					</div>
+					<div class="calculator__option-long" id="docs_house" style="display:none;">
+						<span class="calculator__option-name">Документы</span>
+						<div class="calculator__option-panel">
+							<div class="calculator__option-variant">
+								<input type="radio" name="documents-state-house" value="1" id="documents-state-house-1">
+								<label for="documents-state-house-1">Все документы на дом и участок заранее оформлены корректно</label>
+							</div>
+							<div class="calculator__option-variant">
+								<input type="radio" name="documents-state-house" value="2" id="documents-state-house-2">
+								<label for="documents-state-house-2">Документы заранее не оформлены –  сначала ждем покупателя</label>
+							</div>
+						</div>
+					</div>
+					<div class="calculator__option calculator__option--geo" id="geo_stead" style="display:none;">
+						<span class="calculator__option-name">География</span>
+						<div class="calculator__option-panel">
+							<div class="calculator__option-variant">
+								<input type="radio" name="geopos-stead" value="1" id="geopos-stead-1">
+								<label for="geopos-stead-1">Москва</label>
+							</div>
+							<div class="calculator__option-variant">
+								<input type="radio" name="geopos-stead" value="2" id="geopos-stead-2">
+								<label for="geopos-stead-2">Новая<br> Москва</label>
+							</div>
+							<div class="calculator__option-variant">
+								<input type="radio" name="geopos-stead" value="3" id="geopos-stead-3">
+								<label for="geopos-stead-3">Область <br>(до 20 км)</label>
+							</div>
+							<div class="calculator__option-variant">
+								<input type="radio" name="geopos-stead" value="4" id="geopos-stead-4">
+								<label for="geopos-stead-4">Область <br>(от 20 км)</label>
+							</div>
+						</div>
+					</div>
+					<div class="calculator__option-long" id="docs_stead" style="display:none;">
+						<span class="calculator__option-name">Документы</span>
+						<div class="calculator__option-panel">
+							<div class="calculator__option-variant">
+								<input type="radio" name="documents-state-stead" value="1" id="documents-state-stead-1">
+								<label for="documents-state-stead-1">Все документы на участок заранее оформлены, сделано межевание</label>
+							</div>
+							<div class="calculator__option-variant">
+								<input type="radio" name="documents-state-stead" value="2" id="documents-state-stead-2">
+								<label for="documents-state-stead-2">Документы заранее не оформлены –  сначала ждем покупателя</label>
+							</div>
+						</div>
+					</div>
+					<div class="calculator__option calculator__option--geo" id="geo_town" style="display:none;">
+						<span class="calculator__option-name">География</span>
+						<div class="calculator__option-panel">
+							<div class="calculator__option-variant">
+								<input type="radio" name="geopos-town" value="1" id="geopos-town-1">
+								<label for="geopos-town-1">Москва</label>
+							</div>
+							<div class="calculator__option-variant">
+								<input type="radio" name="geopos-town" value="2" id="geopos-town-2">
+								<label for="geopos-town-2">Новая<br> Москва</label>
+							</div>
+							<div class="calculator__option-variant">
+								<input type="radio" name="geopos-town" value="3" id="geopos-town-3">
+								<label for="geopos-town-3">Область <br>(до 20 км)</label>
+							</div>
+							<div class="calculator__option-variant">
+								<input type="radio" name="geopos-town" value="4" id="geopos-town-4">
+								<label for="geopos-town-4">Область <br>(от 20 км)</label>
+							</div>
+						</div>
+					</div>
+					<div class="calculator__option-long" id="docs_town" style="display:none;">
+						<span class="calculator__option-name">Документы</span>
+						<div class="calculator__option-panel">
+							<div class="calculator__option-variant">
+								<input type="radio" name="documents-state-town" value="1" id="documents-state-town-1">
+								<label for="documents-state-town-1">Все документы на таунхаус и участок заранее оформлены корректно</label>
+							</div>
+							<div class="calculator__option-variant">
+								<input type="radio" name="documents-state-town" value="2" id="documents-state-town-2">
+								<label for="documents-state-town-2">Документы заранее не оформлены –  сначала ждем покупателя</label>
+							</div>
+						</div>
+					</div>
+					<div class="calculator__option calculator__option--geo" id="geosearch_apart" style="display:none;">
+						<span class="calculator__option-name">География поиска</span>
+						<div class="calculator__option-panel">
+							<div class="calculator__option-variant">
+								<input type="radio" name="geosearch" value="1" id="geosearch-1">
+								<label for="geosearch-1">Только<br> Москва</label>
+							</div>
+							<div class="calculator__option-variant">
+								<input type="radio" name="geosearch" value="2" id="geosearch-2">
+								<label for="geosearch-2">Москва и<br>Новая Москва</label>
+							</div>
+							<div class="calculator__option-variant">
+								<input type="radio" name="geosearch" value="3" id="geosearch-3">
+								<label for="geosearch-3">Москва и<br>Область до 10 км</label>
+							</div>
+							<div class="calculator__option-variant">
+								<input type="radio" name="geosearch" value="4" id="geosearch-4">
+								<label for="geosearch-4">Область<br>от 10 км</label>
+							</div>
+						</div>
+					</div>
+					<div class="calculator__option-long" id="selling_apart" style="display:none;">
+						<span class="calculator__option-name">Продажа имеющегося жилья</span>
+						<div class="calculator__option-panel">
+							<div class="calculator__option-variant">
+								<input type="radio" name="selling" value="1" id="selling-1">
+								<label for="selling-1">Да – одновременно пользуемся услугами по продаже</label>
+							</div>
+							<div class="calculator__option-variant">
+								<input type="radio" name="selling" value="2" id="selling-2">
+								<label for="selling-2">Да – одновременно сами продаем недвижимость</label>
+							</div>
+							<div class="calculator__option-variant">
+								<input type="radio" name="selling" value="3" id="selling-3">
+								<label for="selling-3">Нет – одновременно ничего не продаем</label>
+							</div>
+						</div>
+					</div>
+					<div class="calculator__option calculator__option--geo" id="geosearch_house" style="display:none;">
+						<span class="calculator__option-name">География поиска</span>
+						<div class="calculator__option-panel">
+							<div class="calculator__option-variant">
+								<input type="radio" name="geosearch-house" value="1" id="geosearch-house-1">
+								<label for="geosearch-house-1">Только<br> Москва</label>
+							</div>
+							<div class="calculator__option-variant">
+								<input type="radio" name="geosearch-house" value="2" id="geosearch-house-2">
+								<label for="geosearch-house-2">Москва и<br>Новая Москва</label>
+							</div>
+							<div class="calculator__option-variant">
+								<input type="radio" name="geosearch-house" value="3" id="geosearch-house-3">
+								<label for="geosearch-house-3">Москва и<br>Область до 20 км</label>
+							</div>
+							<div class="calculator__option-variant">
+								<input type="radio" name="geosearch-house" value="4" id="geosearch-house-4">
+								<label for="geosearch-house-4">Область<br>от 20 км</label>
+							</div>
+						</div>
+					</div>
+					<div class="calculator__option-long" id="selling_house" style="display:none;">
+						<span class="calculator__option-name">Продажа имеющегося жилья</span>
+						<div class="calculator__option-panel">
+							<div class="calculator__option-variant">
+								<input type="radio" name="selling-house" value="1" id="selling-house-1">
+								<label for="selling-house-1">Да – одновременно пользуемся услугами по продаже</label>
+							</div>
+							<div class="calculator__option-variant">
+								<input type="radio" name="selling-house" value="2" id="selling-house-2">
+								<label for="selling-house-2">Да – одновременно сами продаем недвижимость</label>
+							</div>
+							<div class="calculator__option-variant">
+								<input type="radio" name="selling-house" value="3" id="selling-house-3">
+								<label for="selling-house-3">Нет – одновременно ничего не продаем</label>
+							</div>
+						</div>
+					</div>
+					<div class="calculator__option calculator__option--geo" id="geosearch_stead" style="display:none;">
+						<span class="calculator__option-name">География поиска</span>
+						<div class="calculator__option-panel">
+							<div class="calculator__option-variant">
+								<input type="radio" name="geosearch-stead" value="1" id="geosearch-stead-1">
+								<label for="geosearch-stead-1">Только<br> Москва</label>
+							</div>
+							<div class="calculator__option-variant">
+								<input type="radio" name="geosearch-stead" value="2" id="geosearch-stead-2">
+								<label for="geosearch-stead-2">Москва и<br>Новая Москва</label>
+							</div>
+							<div class="calculator__option-variant">
+								<input type="radio" name="geosearch-stead" value="3" id="geosearch-stead-3">
+								<label for="geosearch-stead-3">Москва и<br>Область до 20 км</label>
+							</div>
+							<div class="calculator__option-variant">
+								<input type="radio" name="geosearch-stead" value="4" id="geosearch-stead-4">
+								<label for="geosearch-stead-4">Область<br>от 20 км</label>
+							</div>
+						</div>
+					</div>
+					<div class="calculator__option-long" id="selling_stead" style="display:none;">
+						<span class="calculator__option-name">Продажа имеющегося жилья</span>
+						<div class="calculator__option-panel">
+							<div class="calculator__option-variant">
+								<input type="radio" name="selling-stead" value="1" id="selling-stead-1">
+								<label for="selling-stead-1">Да – одновременно пользуемся услугами по продаже</label>
+							</div>
+							<div class="calculator__option-variant">
+								<input type="radio" name="selling-stead" value="2" id="selling-stead-2">
+								<label for="selling-stead-2">Да – одновременно сами продаем недвижимость</label>
+							</div>
+							<div class="calculator__option-variant">
+								<input type="radio" name="selling-stead" value="3" id="selling-stead-3">
+								<label for="selling-stead-3">Нет – одновременно ничего не продаем</label>
+							</div>
+						</div>
+					</div>
+					<div class="calculator__option calculator__option--geo" id="geosearch_town" style="display:none;">
+						<span class="calculator__option-name">География поиска</span>
+						<div class="calculator__option-panel">
+							<div class="calculator__option-variant">
+								<input type="radio" name="geosearch-town" value="1" id="geosearch-town-1">
+								<label for="geosearch-town-1">Только<br> Москва</label>
+							</div>
+							<div class="calculator__option-variant">
+								<input type="radio" name="geosearch-town" value="2" id="geosearch-town-2">
+								<label for="geosearch-town-2">Москва и<br>Новая Москва</label>
+							</div>
+							<div class="calculator__option-variant">
+								<input type="radio" name="geosearch-town" value="3" id="geosearch-town-3">
+								<label for="geosearch-town-3">Москва и<br>Область до 10 км</label>
+							</div>
+							<div class="calculator__option-variant">
+								<input type="radio" name="geosearch-town" value="4" id="geosearch-town-4">
+								<label for="geosearch-town-4">Область<br>от 10 км</label>
+							</div>
+						</div>
+					</div>
+					<div class="calculator__option-long" id="selling_town" style="display:none;">
+						<span class="calculator__option-name">Продажа имеющегося жилья</span>
+						<div class="calculator__option-panel">
+							<div class="calculator__option-variant">
+								<input type="radio" name="selling-town" value="1" id="selling-town-1">
+								<label for="selling-town-1">Да – одновременно пользуемся услугами по продаже</label>
+							</div>
+							<div class="calculator__option-variant">
+								<input type="radio" name="selling-town" value="2" id="selling-town-2">
+								<label for="selling-town-2">Да – одновременно сами продаем недвижимость</label>
+							</div>
+							<div class="calculator__option-variant">
+								<input type="radio" name="selling-town" value="3" id="selling-town-3">
+								<label for="selling-town-3">Нет – одновременно ничего не продаем</label>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</form>
+		<div class="container">
+			<div class="row">
+				<div class="col-12">
+					<div class="individual-calc">
+						<p>Хотите рассчитать стоимость услуг индивидуально?</p>
+						<a href="javascript:void(0);" class="button on-popup off-scroll-page" data-popup="queprice">Отправить заявку</a>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+	<section class="section attention" data-section-name="not interesting">
+		<div class="container">
+			<div class="row">
+				<div class="col-12 col-xl-7 col-lg-6">
+					<img src="/local/templates/new/img/stop.png" alt="stop" class="img-fullscreen">
+				</div>
+				<div class="col-12 col-xl-5 col-lg-6">
+					<div class="deprecated-things">
+						<img src="/local/templates/new/img/stop.png" alt="stop" class="img-for-mobile__stop">
+						<h2 class="attention__header">Уважаемые клиенты!</h2>
+						<span class="attention__desc">
+							Ниже представлена информация, которая, возможно, поможет всем нам сэкономить время.						</span>
+						<div class="attention__dont-disturb-block">
+							<p class="attention__dont-disturb-head">
+								Я <span class="red-text">не занимаюсь</span> следующими видами<br> недвижимости и не даю консультаций:							</p>
+							<ul class="attention__dont-disturb-list">
+								<li class="attention__dont-disturb-item">Доли в квартирах и домах</li>
+<li class="attention__dont-disturb-item">Квартиры далее 30 км от МКАД</li>
+<li class="attention__dont-disturb-item">Дома и участки далее 60 км от МКАД</li>
+<li class="attention__dont-disturb-item">Недвижимости в других регионах России</li>
+<li class="attention__dont-disturb-item">Аренда квартир (сдача и съем)</li>
+<li class="attention__dont-disturb-item">Коммерческая недвижимость</li>							</ul>
+						</div>
+						<div class="important-thing">
+							<h3 class="important-head">Это важно</h3>
+<p>Я занимаюсь продажей недвижимости только с согласия всех собственников и зарегистрированных лиц. Если кто-то из собственников или зарегистрированных лиц против продажи – я ничем помочь не смогу.</p>
+											</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+	<section class="section map">
+		<div class="map-yandex">
+			<div id="map" style="width: 100%; height: 100%"></div>
+		</div>
+		<div class="map-contact-wrap" data-section-name="contacts" id="contacts">
+			<div class="container h100">
+				<div class="row h100">
+					<div class="col-xl-6 h100 ac">
+						<div class="map-contacts">
+							<h2 class="map-header">Контакты</h2>
+							<div class="map-office-box">
+								 <span class="map-office__name">Мой офис:</span> <span class="map-office__address">Москва, Новый арбат 21, офис 2347</span> <span class="map-office__time">Я и моя команда будем рады видеть вас в офисе в удобное для вас время с 10:00 до 20:00, 7 дней в неделю</span>							</div>	
+							<div class="map-consult-box">
+								<span class="map-office__name">Записаться на консультацию и задать вопрос вы можете:</span>
+								<div class="map-office-phone">
+									<p class="param">по телефону</p>
+									<a href="tel:
+
++7 (495) 772-84-04" class="val ya-phone">
+
++7 (495) 772-84-04</a>
+								</div>
+								<div class="map-office-email">
+									<p class="param">по почте</p>
+									<a href="mailto:vodolazov.alexander@yandex.ru" class="val">vodolazov.alexander@yandex.ru</a>
+								</div>
+							</div>
+							<ul class="map-messengers">
+								<li class="map-messengers-item">
+									<a href="skype:avodolazov?chat" class="map-messengers-link">
+										<img src="/local/templates/new/img/skype.svg" alt="skype">
+										<span class="messenger-link-attr">avodolazov</span>
+									</a>
+								</li>
+								<li class="map-messengers-item">
+									<a href="https://wa.me/79257728404" class="map-messengers-link" target="_blank">
+										<img src="/local/templates/new/img/whatsapp.svg" alt="whatsapp">
+										<span class="messenger-link-attr">+79257728404</span>
+									</a>
+								</li>
+								<li class="map-messengers-item">
+									<a href="tg://resolve?domain=Alexander_Vodolazov" class="map-messengers-link">
+										<img src="/local/templates/new/img/telegram.svg" alt="telegram">
+										<span class="messenger-link-attr">+79257728404</span>
+									</a>
+								</li>
+								<li class="map-messengers-item">
+									<a href="viber://chat?number=79257728404" class="map-messengers-link" style="opacity: 0.6;">
+										<img src="/local/templates/new/img/viber.svg" alt="viber">
+										<span class="messenger-link-attr">+79257728404</span>
+									</a>
+								</li>
+							</ul>
+						</div>							
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+			<section class="section interesting-things" id="articles">
+							<div class="container">
+					<div class="row">
+						<div class="col-12">
+							<h2 class="interesting-things__header">Вас может заинтересовать</h2>
+						</div>
+					</div>
+					<div class="row">
+								<div class="news__item" id="bx_651765591_112">
+		<a href="/articles/voprosy-kotorye-zadayut-riehltoru-pri-prodazhe-kvartiry/" class="news__ink-wrap">
+			<div class="news__img-wrap"><img src="/upload/iblock/caa/%D0%92%D0%BE%D0%BF%D1%80%D0%BE%D1%81%D1%8B%20%D1%80%D0%B8%D1%8D%D0%BB%D1%82%D0%BE%D1%80%D1%83%20%D0%BF%D1%80%D0%B8%20%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B5%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80%D1%8B.jpg" alt="Вопросы, которые чаще всего задают риэлтору при продаже квартиры." title="Вопросы, которые чаще всего задают риэлтору при продаже квартиры." class="news__img"></div>
+			<div class="news__desc">
+				<div class="preview_text">
+					<h4 class="news__name">Вопросы, которые чаще всего задают риэлтору при продаже квартиры.</h4>
+						<p style="text-align: center;">
+</p>
+<p style="text-align: center;">
+	 Возможно, эти вопросы есть у и Вас.
+</p>					</div>			</div>
+		</a>
+	</div>
+		<div class="news__item" id="bx_651765591_93">
+		<a href="/articles/kak-vibrat-rieltora/" class="news__ink-wrap">
+			<div class="news__img-wrap"><img src="/upload/iblock/891/%D0%9A%D0%B0%D0%BA%20%D0%B2%D1%8B%D0%B1%D1%80%D0%B0%D1%82%D1%8C%20%D1%80%D0%B8%D1%8D%D0%BB%D1%82%D0%BE%D1%80%D0%B0.jpg" alt="Как выбрать риэлтора?" title="Как выбрать риэлтора?" class="news__img"></div>
+			<div class="news__desc">
+				<div class="preview_text">
+					<h4 class="news__name">Как выбрать риэлтора?</h4>
+						В Москве десятки тысяч людей называют <br>
+ себя риэлторами. Узнайте, по каким <br>
+ признакам вы можете отличить <br>
+настоящего профессионала.					</div>			</div>
+		</a>
+	</div>
+		<div class="news__item" id="bx_651765591_127">
+		<a href="/articles/uslugi-riehltora-pri-prodazhe-kvartiry/" class="news__ink-wrap">
+			<div class="news__img-wrap"><img src="/upload/iblock/556/%D0%A3%D1%81%D0%BB%D1%83%D0%B3%D0%B8%20%D1%80%D0%B8%D1%8D%D0%BB%D1%82%D0%BE%D1%80%D0%B0%20%D0%BF%D0%BE%20%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B5%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80%D1%8B.jpg" alt="Услуги риэлтора при продаже квартиры" title="Услуги риэлтора при продаже квартиры" class="news__img"></div>
+			<div class="news__desc">
+				<div class="preview_text">
+					<h4 class="news__name">Услуги риэлтора при продаже квартиры</h4>
+						Как частный риэлтор может помочь<br />
+при продаже квартиры и какая Вам <br />
+от этого выгода.					</div>			</div>
+		</a>
+	</div>
+		<div class="news__item" id="bx_651765591_120">
+		<a href="/articles/kak-ya-stal-chastnym-riehltorom/" class="news__ink-wrap">
+			<div class="news__img-wrap"><img src="/upload/iblock/957/%D0%9A%D0%B0%D0%BA%20%D1%8F%20%D1%81%D1%82%D0%B0%D0%BB%20%D1%87%D0%B0%D1%81%D1%82%D0%BD%D1%8B%D0%BC%20%D1%80%D0%B8%D1%8D%D0%BB%D1%82%D0%BE%D1%80%D0%BE%D0%BC.jpg" alt="Как я стал частным риэлтором. Мои профессиональные принципы." title="Как я стал частным риэлтором. Мои профессиональные принципы." class="news__img"></div>
+			<div class="news__desc">
+				<div class="preview_text">
+					<h4 class="news__name">Как я стал частным риэлтором. Мои профессиональные принципы.</h4>
+						Клиент для риэлтора - его работодатель.<br />
+Предлагаю Вам с ознакомиться с моим<br />
+резюме и буду рад добросовестно и<br />
+качественно выполнить свою работу.					</div>			</div>
+		</a>
+	</div>
+		<div class="news__item" id="bx_651765591_118">
+		<a href="/articles/kak-kupit-kvartiru-deshevle/" class="news__ink-wrap">
+			<div class="news__img-wrap"><img src="/upload/iblock/36f/%D0%9A%D0%B0%D0%BA%20%D0%BA%D1%83%D0%BF%D0%B8%D1%82%D1%8C%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80%D1%83%20%D0%B4%D0%B5%D1%88%D0%B5%D0%B2%D0%BB%D0%B5.jpg" alt="Как купить квартиру дешевле" title="Как купить квартиру дешевле" class="news__img"></div>
+			<div class="news__desc">
+				<div class="preview_text">
+					<h4 class="news__name">Как купить квартиру дешевле</h4>
+						5 шагов к максимально выгодной покупке<br />
+квартиры или загородного дома.					</div>			</div>
+		</a>
+	</div>
+		<div class="news__item" id="bx_651765591_119">
+		<a href="/articles/kak-prodat-kvartiru-doroje/" class="news__ink-wrap">
+			<div class="news__img-wrap"><img src="/upload/iblock/82f/%D0%9A%D0%B0%D0%BA%20%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D1%82%D1%8C%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80%D1%83%20%D0%B4%D0%BE%D1%80%D0%BE%D0%B6%D0%B5.jpg" alt="Как продать квартиру дороже" title="Как продать квартиру дороже" class="news__img"></div>
+			<div class="news__desc">
+				<div class="preview_text">
+					<h4 class="news__name">Как продать квартиру дороже</h4>
+						5 шагов к выгодной продаже вашей<br />
+квартиры или дома. Рекомендации<br />
+опытного риэлтора.					</div>			</div>
+		</a>
+	</div>
+					
+			<a class="btn" href="/?PAGEN_1=2" id="ajax_next_page"></a>
+	
+			
+					</div>
+				</div>
+								<footer class="footer">
+				<div class="container">
+					<div class="row">
+						<div class="col-12">
+							<p class="copyright-text">Весь контент, представленный на сайте, является интеллектуальной собственностью Александра Водолазова. Любое несанкционированное копирование текста преследуется в соответствии с законодательством.</p>
+							<div class="copyright-info">
+								<span class="copyright-owner">Частный риэлтор Водолазов Александр Александрович © 2012-2019</span>
+															</div>
+						</div>
+					</div>
+				</div>
+			</footer>
+			</section>	
+			<script src="https://cdn.domclick.ru/widget/mortgage/inject.js"></script>
+		<script src="/local/templates/new/js/scripts.min.js"></script>
+		<script src="/local/templates/new/js/akweb.js"></script>
+		<script src="/local/templates/new/js/canvas-video-player.js"></script>
+			
+
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript" >
+   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+   (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+   ym(52899727, "init", {
+		clickmap:true,
+		trackLinks:true,
+		accurateTrackBounce:true,
+		webvisor:true
+   });
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/52899727" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+
+<!-- Скрипт для аналитика гугла -->
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-102346792-1', 'auto');
+  ga('send', 'pageview');
+</script>
+<!-- Скрипт для аналитика гугла -->	
+		<div class="popap__wrapper">
+			<div class="close">
+	<img src="/local/templates/new/img/icons/png/close.png" alt="close popup">
+</div>
+<div class="popup popup-calculator">
+	<div id="calculator"></div>
+</div>
+<div class="popup popup-free-sell">
+		<div id="comp_5ff7c30a117f0fa193cc12ad2ec64993">
+	<script>
+		$(document).on('change', 'input[name="PROPERTY[22]"]', function () {
+			var ans = $(this).attr('id');
+			if (ans == "property_1") {
+				$('.forYesAns').addClass('active');
+				$('.forNoAns').removeClass('active');
+			}
+			if (ans == "property_2") {
+				$('.forYesAns').removeClass('active')
+				$('.forNoAns').addClass('active')
+			}
+		});
+		$(document).on('click', '.js-add-photo', function (e) {
+			e.preventDefault();
+			$('#img').click();
+		});
+		$(document).on('change', '#img', function (e) {
+			e.preventDefault();
+			var input = $(this)[0];
+			if (input.files && input.files[0]) {
+				if (input.files[0].type.match('image.*')) {
+					var reader = new FileReader();
+					reader.onload = function (e) {
+						var result = $(input).attr('name').split('_');
+						var new_count_name = result[0] + '[' + result[2] + ']' + '[' + result[3] + ']';
+						result[3]++;
+						var new_name = result.join('_');
+						var new_input = $(input).clone();
+						$(new_input).attr('name', new_name).attr('id', 'img');
+						$(input).removeAttr('id');
+						var add_but = $('.js-add-photo');
+						add_but.remove();
+						$('ul.pic-list').append('<li class="pic-list-item"><div class="pic-list-wrap"><img src="' + e.target.result + '"/></div></li>');
+						$('ul.pic-list').append('<li class="pic-list-item js-add-photo"><a href="#" class="add-photo-btn">Добавить фото</a></li>');
+						$('ul.pic-list').prepend('<input type="hidden" name ="' + new_count_name + '" />');
+						$('ul.pic-list').prepend($(new_input));
+					};
+					reader.readAsDataURL(input.files[0]);
+					$(input).removeAttr('id');
+
+				} else {
+					console.log('ошибка, не изображение');
+				}
+			} else {
+				console.log('хьюстон у нас проблема');
+			}
+		});
+		$(document).on('click','.input-variants li', function(e){
+			e.preventDefault();
+			var choose = $(this).data('value');
+			$(this).parents('.input-wrap').find('.js-controlled-select').val(choose);
+		})
+	</script>
+<form name="iblock_add" action="/" method="post" enctype="multipart/form-data"><input type="hidden" name="bxajaxid" id="bxajaxid_5ff7c30a117f0fa193cc12ad2ec64993_8BACKi" value="5ff7c30a117f0fa193cc12ad2ec64993" /><input type="hidden" name="AJAX_CALL" value="Y" /><script type="text/javascript">
+function _processform_8BACKi(){
+	var obForm = top.BX('bxajaxid_5ff7c30a117f0fa193cc12ad2ec64993_8BACKi').form;
+	top.BX.bind(obForm, 'submit', function() {BX.ajax.submitComponentForm(this, 'comp_5ff7c30a117f0fa193cc12ad2ec64993', true)});
+	top.BX.removeCustomEvent('onAjaxSuccess', _processform_8BACKi);
+}
+if (top.BX('bxajaxid_5ff7c30a117f0fa193cc12ad2ec64993_8BACKi'))
+	_processform_8BACKi();
+else
+	top.BX.addCustomEvent('onAjaxSuccess', _processform_8BACKi);
+</script>
+	<div class="container">
+			<input type="hidden" name="sessid" id="sessid" value="5e2d2e31124aa089f767f8143138029a" />					<div class="row">
+			<div class="col-12">
+				<h2 class="popup__name">
+					Получите бесплатно отчет о продаже
+				</h2>
+			</div>
+		</div>
+		<div class="row">
+							<div class="col-12">
+							<div class="popup__inputs-wrap">
+					<div class="input-wrap"><input type="text" class="popup__user-name" placeholder="Ваше имя" name="PROPERTY[NAME][0]"
+		       size="30" value=""/></div>					<div class="input-wrap"><input type="text" class="popup__user-phone" placeholder="Номер телефона" name="PROPERTY[27][0]"
+		       size="30" value=""/></div>					<div class="input-wrap"><input type="text" class="popup__user-mail" placeholder="Email" name="PROPERTY[28][0]"
+		       size="30" value=""/></div>				</div>
+			</div>
+			<div class="col-12">
+				<div class="popup__user-data">
+					<span class="popup__user-data-text">Ваша квартира или дом сейчас где-то <br>рекламируются?</span>
+				</div>
+				<div class="popup__inputs-wrap">
+					<div class="col-12">
+						<div class="popup__parameters"><div class="popup__option"><div class="popup__option-panel"><div class="popup__option-variant"><input type="radio" name="PROPERTY[22]"
+								value="1" id="property_1"  checked="checked"/><label for="property_1">Да</label></div><div class="popup__option-variant"><input type="radio" name="PROPERTY[22]"
+								value="2" id="property_2" /><label for="property_2">Нет</label></div></div></div></div>						<div class="popup__inputs-wrap forYesAns active">
+								<div class="input-wrap"><input type="text" class="popup__ad-link" placeholder="Ссылка на объявление о продаже" name="PROPERTY[23][0]"
+		       size="30" value=""/></div>						</div>
+						<div class="popup__inputs-wrap forNoAns">
+							<div class="input-wrap">
+		<div class="textareawrap"><textarea id="flet-desc" cols="30"
+		          rows="12"
+		          name="PROPERTY[PREVIEW_TEXT][0]" placeholder="Пожалуйста, максимально подробно опишите вашу недвижимость"></textarea><span class="textarea-sym-left">Начните ввод</span></div></div>							<div class="input-wrap"><input type="text" class="popup__price-link" placeholder="Актуальная цена" name="PROPERTY[25][0]"
+		       size="30" value=""/></div>							<div class="input-wrap"><input type="text" class="popup__price-link" placeholder="Добавить ссылку на фотографии" name="PROPERTY[29][0]"
+		       size="30" value=""/></div>						</div>
+							<div class="input-wrap"><input type="text" class="popup__ad-link" placeholder="Сколько длится продажа" name="PROPERTY[24][0]"
+		       size="30" value=""/></div>						<input type="submit" class="button-free-sell" name="iblock_submit" value="ПОЛУЧИТЬ ОТЧЕТ"/>
+						<div class="info">
+							<p class="info-text">Нажимая на кнопку «Получить ответ» вы соглашаетесь с <a href="/policy/" target="_blank">политикой конфиденциальности</a></p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</form>
+<style>
+	.popup-free-sell .popup__inputs-wrap input.button-free-sell{
+		border: none;
+		display: -webkit-box;
+		display: -webkit-flex;
+		display: -ms-flexbox;
+		display: flex;
+		-webkit-box-pack: center;
+		-webkit-justify-content: center;
+		-ms-flex-pack: center;
+		justify-content: center;
+		text-align: center;
+		padding: auto 54px;
+		-webkit-box-align: center;
+		-webkit-align-items: center;
+		-ms-flex-align: center;
+		align-items: center;
+		-webkit-border-radius: 10px;
+		background-color: #ff8666;
+		color: #fff;
+		margin-left: auto;
+		margin-right: auto;
+		width: 370px;
+		height: 50px;
+		border-radius: 25px;
+		margin-bottom: 30px;
+		margin-top: 40px;
+		font-weight: 800;
+	}
+	.button-free-sell:hover, .button-free-sell:focus, .button-free-sell:active {
+		outline: 0;
+		text-decoration: none;
+		color: #fff;
+		background-color: #e77051;
+	}
+</style></div></div>
+<div class="popup popup-ask">
+		<div id="comp_fd7a822cf0ddeddf289a625d6f00a8ea">	
+<form action="/" method="POST"><input type="hidden" name="bxajaxid" id="bxajaxid_fd7a822cf0ddeddf289a625d6f00a8ea_Ar8Szp" value="fd7a822cf0ddeddf289a625d6f00a8ea" /><input type="hidden" name="AJAX_CALL" value="Y" /><script type="text/javascript">
+function _processform_Ar8Szp(){
+	var obForm = top.BX('bxajaxid_fd7a822cf0ddeddf289a625d6f00a8ea_Ar8Szp').form;
+	top.BX.bind(obForm, 'submit', function() {BX.ajax.submitComponentForm(this, 'comp_fd7a822cf0ddeddf289a625d6f00a8ea', true)});
+	top.BX.removeCustomEvent('onAjaxSuccess', _processform_Ar8Szp);
+}
+if (top.BX('bxajaxid_fd7a822cf0ddeddf289a625d6f00a8ea_Ar8Szp'))
+	_processform_Ar8Szp();
+else
+	top.BX.addCustomEvent('onAjaxSuccess', _processform_Ar8Szp);
+</script>
+			<input type="hidden" name="sessid" id="sessid_1" value="5e2d2e31124aa089f767f8143138029a" />		<div class="container">
+			<div class="row">
+				<div class="col-12">
+					<h2 class="popup__name">
+						Задать вопрос Александру Водолазову
+					</h2>
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-12">
+					<div class="popup__inputs-wrap">
+						<div class="col-12">
+							<div class="input-wrap">
+								<input type="text" class="popup__price-link" placeholder="Ваше имя" name="user_name"
+								       value="">
+																</div>
+							<div class="input-wrap">
+								<input type="text" class="popup__price-link" placeholder="Ваш телефон" name="user_phone" value="">
+																</div>
+							<div class="input-wrap">
+								<input type="text" class="popup__price-link" placeholder="Ваш E-mail"
+								       value="" name="user_email">
+																</div>
+							<div class="input-wrap">
+								<div class="textareawrap">
+									<textarea name="MESSAGE" id="flet-desc2" cols="30" rows="10" placeholder="Опишите, пожалуйста, максимально подробно, о чем вы хотели бы проконсультироваться со мной"></textarea>
+									<span class="textarea-sym-left">Начните ввод</span>
+								</div>
+																</div>
+						</div>
+						<input type="hidden" name="PARAMS_HASH" value="1ba60694977dc348286f2320ca255e27">
+						<input type="submit" name="submit" value="Отправить запрос" class="button-ask-question">
+						<div class="info">
+							<p class="info-text">Нажимая на кнопку «Получить ответ» вы соглашаетесь с <a href="/policy/" target="_blank">политикой
+									конфиденциальности</a></p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+				</form>
+	<div class="close-window-wrap">
+		<div class="close-window">
+			<span class="close-window-text">Закрыть окно?</span>
+			<div class="button-wrap">
+				<button class="button button-yes">Да</button>
+				<button class="button button-no">Нет</button>
+			</div>
+		</div>
+	</div><style>
+	.popup-ask .popup__inputs-wrap input.button-ask-question{
+		border: none;
+		display: -webkit-box;
+		display: -webkit-flex;
+		display: -ms-flexbox;
+		display: flex;
+		-webkit-box-pack: center;
+		-webkit-justify-content: center;
+		-ms-flex-pack: center;
+		justify-content: center;
+		text-align: center;
+		padding: auto 54px;
+		-webkit-box-align: center;
+		-webkit-align-items: center;
+		-ms-flex-align: center;
+		align-items: center;
+		-webkit-border-radius: 10px;
+		background-color: #ff8666;
+		color: #fff;
+		margin-left: auto;
+		margin-right: auto;
+		width: 370px;
+		height: 50px;
+		border-radius: 25px;
+		margin-bottom: 30px;
+		margin-top: 40px;
+		font-weight: 800;
+		cursor: pointer;
+		max-width: 80%;
+	}
+	.button-ask-question:hover, .button-ask-question:focus, .button-ask-question:active {
+		outline: 0;
+		text-decoration: none;
+		color: #fff;
+		background-color: #e77051;
+	}
+</style>
+</div></div>
+<div class="popup popup-queprice">
+		<div id="comp_724647cd7bb890194a3ef20abf0e5e1c">	
+<form action="/" method="POST"><input type="hidden" name="bxajaxid" id="bxajaxid_724647cd7bb890194a3ef20abf0e5e1c_XrQFCj" value="724647cd7bb890194a3ef20abf0e5e1c" /><input type="hidden" name="AJAX_CALL" value="Y" /><script type="text/javascript">
+function _processform_XrQFCj(){
+	var obForm = top.BX('bxajaxid_724647cd7bb890194a3ef20abf0e5e1c_XrQFCj').form;
+	top.BX.bind(obForm, 'submit', function() {BX.ajax.submitComponentForm(this, 'comp_724647cd7bb890194a3ef20abf0e5e1c', true)});
+	top.BX.removeCustomEvent('onAjaxSuccess', _processform_XrQFCj);
+}
+if (top.BX('bxajaxid_724647cd7bb890194a3ef20abf0e5e1c_XrQFCj'))
+	_processform_XrQFCj();
+else
+	top.BX.addCustomEvent('onAjaxSuccess', _processform_XrQFCj);
+</script>
+			<input type="hidden" name="sessid" id="sessid_2" value="5e2d2e31124aa089f767f8143138029a" />		<div class="container">
+			<div class="row">
+				<div class="col-12">
+					<h2 class="popup__name">
+						Задать вопрос Александру Водолазову
+					</h2>
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-12">
+					<div class="popup__inputs-wrap">
+						<div class="col-12">
+							<div class="input-wrap">
+								<input type="text" class="popup__price-link" placeholder="Ваше имя" name="user_name"
+								       value="">
+																</div>
+							<div class="input-wrap">
+								<input type="text" class="popup__price-link" placeholder="Ваш телефон" name="user_phone" value="">
+																</div>
+							<div class="input-wrap">
+								<input type="text" class="popup__price-link" placeholder="Ваш E-mail"
+								       value="" name="user_email">
+																</div>
+							<div class="input-wrap">
+								<div class="textareawrap">
+									<textarea name="MESSAGE" id="flet-desc2" cols="30" rows="10" placeholder="Опишите, пожалуйста, максимально подробно, о чем вы хотели бы проконсультироваться со мной"></textarea>
+									<span class="textarea-sym-left">Начните ввод</span>
+								</div>
+																</div>
+						</div>
+						<input type="hidden" name="PARAMS_HASH" value="a1b90a9b81ff5d5c0a8e17af4046b96a">
+						<input type="submit" name="submit" value="Отправить запрос" class="button-ask-question">
+						<div class="info">
+							<p class="info-text">Нажимая на кнопку «Получить ответ» вы соглашаетесь с <a href="/policy/" target="_blank">политикой
+									конфиденциальности</a></p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+				</form>
+	<div class="close-window-wrap">
+		<div class="close-window">
+			<span class="close-window-text">Закрыть окно?</span>
+			<div class="button-wrap">
+				<button class="button button-yes">Да</button>
+				<button class="button button-no">Нет</button>
+			</div>
+		</div>
+	</div><style>
+	.popup-ask .popup__inputs-wrap input.button-ask-question{
+		border: none;
+		display: -webkit-box;
+		display: -webkit-flex;
+		display: -ms-flexbox;
+		display: flex;
+		-webkit-box-pack: center;
+		-webkit-justify-content: center;
+		-ms-flex-pack: center;
+		justify-content: center;
+		text-align: center;
+		padding: auto 54px;
+		-webkit-box-align: center;
+		-webkit-align-items: center;
+		-ms-flex-align: center;
+		align-items: center;
+		-webkit-border-radius: 10px;
+		background-color: #ff8666;
+		color: #fff;
+		margin-left: auto;
+		margin-right: auto;
+		width: 370px;
+		height: 50px;
+		border-radius: 25px;
+		margin-bottom: 30px;
+		margin-top: 40px;
+		font-weight: 800;
+		cursor: pointer;
+		max-width: 80%;
+	}
+	.button-ask-question:hover, .button-ask-question:focus, .button-ask-question:active {
+		outline: 0;
+		text-decoration: none;
+		color: #fff;
+		background-color: #e77051;
+	}
+</style>
+</div></div>
+<div class="popup popup-queprice1">
+		<div id="comp_da9f830b74906b05da413c8bc33b6dbc">	
+<form action="/" method="POST"><input type="hidden" name="bxajaxid" id="bxajaxid_da9f830b74906b05da413c8bc33b6dbc_dCjmSk" value="da9f830b74906b05da413c8bc33b6dbc" /><input type="hidden" name="AJAX_CALL" value="Y" /><script type="text/javascript">
+function _processform_dCjmSk(){
+	var obForm = top.BX('bxajaxid_da9f830b74906b05da413c8bc33b6dbc_dCjmSk').form;
+	top.BX.bind(obForm, 'submit', function() {BX.ajax.submitComponentForm(this, 'comp_da9f830b74906b05da413c8bc33b6dbc', true)});
+	top.BX.removeCustomEvent('onAjaxSuccess', _processform_dCjmSk);
+}
+if (top.BX('bxajaxid_da9f830b74906b05da413c8bc33b6dbc_dCjmSk'))
+	_processform_dCjmSk();
+else
+	top.BX.addCustomEvent('onAjaxSuccess', _processform_dCjmSk);
+</script>
+			<input type="hidden" name="sessid" id="sessid_3" value="5e2d2e31124aa089f767f8143138029a" />		<div class="container">
+			<div class="row">
+				<div class="col-12">
+					<h2 class="popup__name">
+						Запрос на подбор новостройки
+					</h2>
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-12">
+					<div class="popup__inputs-wrap">
+						<div class="col-12">
+							<div class="input-wrap">
+								<input type="text" class="popup__price-link" placeholder="Ваше имя" name="user_name"
+								       value="">
+																</div>
+							<div class="input-wrap">
+								<input type="text" class="popup__price-link" placeholder="Ваш телефон" name="user_phone" value="">
+																</div>
+							<div class="input-wrap">
+								<input type="text" class="popup__price-link" placeholder="Ваш E-mail"
+								       value="" name="user_email">
+																</div>
+							<div class="input-wrap">
+								<div class="textareawrap">
+									<textarea name="MESSAGE" id="flet-desc2" cols="30" rows="10" placeholder="Опишите, пожалуйста, ваши пожелания  по приобретаемой новостройке (расположение, метраж, примерная стоимость и т.д.)"></textarea>
+									<span class="textarea-sym-left">Начните ввод</span>
+								</div>
+																</div>
+						</div>
+						<input type="hidden" name="PARAMS_HASH" value="aa705b8605f355a1164a4127de5a14ba">
+						<input type="submit" name="submit" value="Отправить запрос" class="button-ask-question">
+						<div class="info">
+							<p class="info-text">Нажимая на кнопку «Получить ответ» вы соглашаетесь с <a href="/policy/" target="_blank">политикой
+									конфиденциальности</a></p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+				</form>
+	<div class="close-window-wrap">
+		<div class="close-window">
+			<span class="close-window-text">Закрыть окно?</span>
+			<div class="button-wrap">
+				<button class="button button-yes">Да</button>
+				<button class="button button-no">Нет</button>
+			</div>
+		</div>
+	</div><style>
+	.popup-ask .popup__inputs-wrap input.button-ask-question{
+		border: none;
+		display: -webkit-box;
+		display: -webkit-flex;
+		display: -ms-flexbox;
+		display: flex;
+		-webkit-box-pack: center;
+		-webkit-justify-content: center;
+		-ms-flex-pack: center;
+		justify-content: center;
+		text-align: center;
+		padding: auto 54px;
+		-webkit-box-align: center;
+		-webkit-align-items: center;
+		-ms-flex-align: center;
+		align-items: center;
+		-webkit-border-radius: 10px;
+		background-color: #ff8666;
+		color: #fff;
+		margin-left: auto;
+		margin-right: auto;
+		width: 370px;
+		height: 50px;
+		border-radius: 25px;
+		margin-bottom: 30px;
+		margin-top: 40px;
+		font-weight: 800;
+		cursor: pointer;
+		max-width: 80%;
+	}
+	.button-ask-question:hover, .button-ask-question:focus, .button-ask-question:active {
+		outline: 0;
+		text-decoration: none;
+		color: #fff;
+		background-color: #e77051;
+	}
+</style>
+</div></div>
+<div class="popup-thk">
+	<div class="container">
+		<div class="row col-12">
+			<div class="tnk-block">
+				<img src="/local/templates/new/img/man.png" alt="man">
+				<div class="thk-text">
+					<p><b>Ярослав Валентинович,</b> спасибо, за ваш запрос. </p>
+					<p>Я внимательно изучу всю предоставленную информацию и в самое ближайшее время свяжусь с вами. </p>
+					<span>С уважением, Александр Водолазов.</span>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>		</div>
+
+		<script src="//cdn.callibri.ru/callibri.js" type="text/javascript" charset="utf-8"></script>
+
+		<div class="whatsapp_call" id="whatsapp_call"><a target="_blank" href="https://api.whatsapp.com/send?phone=79257728404&amp;text="><img class="whatsapp_img" src="/local/templates/new/img/whatsapp1.png"></a></div>
+
+	</body>
+</html>
